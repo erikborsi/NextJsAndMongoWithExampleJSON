@@ -1,4 +1,6 @@
 ###############################################
+#### THE DATABASE CREATED ON MONGODB ATLAS ####
+########## FROM AN EXAMPLE JSON FILE ##########
 #### THE DATABASE LOCATED ON MONGODB ATLAS ####
 ###############################################
 
